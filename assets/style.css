@@ -1,0 +1,14 @@
+.container-body {
+    background-color: #f2f3f5;
+    min-width: 352px;
+}
+.container_bg-darkgrey {
+    background-color: #343a41;
+    color: #fff;
+}
+.container-main {
+    background-color: #fff;
+}
+.section_welcome {
+    background-color: #eaecef;
+}
